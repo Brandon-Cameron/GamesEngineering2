@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gameuser\\Documents\\GamesEng\\GamesEngineering2\\C00260441\\Lab02\\lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F935972-9E13-4EB0-A80D-830E5CC336E6}|lab02\\lab02.vcxproj|C:\\Users\\gameuser\\Documents\\GamesEng\\GamesEngineering2\\C00260441\\Lab02\\lab02\\lab02\\lab02_classify.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F935972-9E13-4EB0-A80D-830E5CC336E6}|lab02\\lab02.vcxproj|solutionrelative:lab02\\lab02_classify.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab02_classify.cpp",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Documents\\GamesEng\\GamesEngineering2\\C00260441\\Lab02\\lab02\\lab02\\lab02_classify.cpp",
+              "RelativeDocumentMoniker": "lab02\\lab02_classify.cpp",
+              "ToolTip": "C:\\Users\\gameuser\\Documents\\GamesEng\\GamesEngineering2\\C00260441\\Lab02\\lab02\\lab02\\lab02_classify.cpp*",
+              "RelativeToolTip": "lab02\\lab02_classify.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-17T12:48:29.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
