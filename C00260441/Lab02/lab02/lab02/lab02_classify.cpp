@@ -35,10 +35,11 @@ static void checkEqual(int actual, int expected, const std::string& label) {
 
 static void runTests() {
     // TODO(1): call classify() with a negative value and check the return equals -1
+    checkEqual(classify(-5), -1, "negative branch");
     // TODO(2): call classify() with zero and check the return equals 0
+    checkEqual(classify(0), 0, "zero branch");
     // TODO(3): call classify() with a positive value and check the return equals 1
     // For instance : checkEqual(classify(X), X, "negative branch");
-    checkEqual(classify(-5), -1, "negative branch");
 }
 
 int main() {
